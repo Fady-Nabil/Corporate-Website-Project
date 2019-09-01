@@ -20,4 +20,4 @@ in this project I made a portfolio website
 any help feel free to contact me via 
 my email: fadyn.girgis@gmail.com
 
-#this project for mastering php and mysql
+# this project for mastering php and mysql
